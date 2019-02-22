@@ -1,4 +1,4 @@
-# pperm
+# omp-perm
 A Classical [Boson Sampling] using the algorithm of Clifford and Clifford. Also provides functions for generating random unitary matrices, evaluation of matrix permanents (both real and complex) and evaluation of complex permanent minors.
 
 The purpose of this project is 
